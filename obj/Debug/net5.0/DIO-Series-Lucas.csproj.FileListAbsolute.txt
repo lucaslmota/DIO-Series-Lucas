@@ -1,0 +1,16 @@
+/home/lucas/Documentos/DIO-Series-Lucas/obj/Debug/net5.0/DIO-Series-Lucas.csproj.AssemblyReference.cache
+/home/lucas/Documentos/DIO-Series-Lucas/obj/Debug/net5.0/DIO-Series-Lucas.GeneratedMSBuildEditorConfig.editorconfig
+/home/lucas/Documentos/DIO-Series-Lucas/obj/Debug/net5.0/DIO-Series-Lucas.AssemblyInfoInputs.cache
+/home/lucas/Documentos/DIO-Series-Lucas/obj/Debug/net5.0/DIO-Series-Lucas.AssemblyInfo.cs
+/home/lucas/Documentos/DIO-Series-Lucas/obj/Debug/net5.0/DIO-Series-Lucas.csproj.CoreCompileInputs.cache
+/home/lucas/Documentos/DIO-Series-Lucas/bin/Debug/net5.0/DIO-Series-Lucas
+/home/lucas/Documentos/DIO-Series-Lucas/bin/Debug/net5.0/DIO-Series-Lucas.deps.json
+/home/lucas/Documentos/DIO-Series-Lucas/bin/Debug/net5.0/DIO-Series-Lucas.runtimeconfig.json
+/home/lucas/Documentos/DIO-Series-Lucas/bin/Debug/net5.0/DIO-Series-Lucas.runtimeconfig.dev.json
+/home/lucas/Documentos/DIO-Series-Lucas/bin/Debug/net5.0/DIO-Series-Lucas.dll
+/home/lucas/Documentos/DIO-Series-Lucas/bin/Debug/net5.0/ref/DIO-Series-Lucas.dll
+/home/lucas/Documentos/DIO-Series-Lucas/bin/Debug/net5.0/DIO-Series-Lucas.pdb
+/home/lucas/Documentos/DIO-Series-Lucas/obj/Debug/net5.0/DIO-Series-Lucas.dll
+/home/lucas/Documentos/DIO-Series-Lucas/obj/Debug/net5.0/ref/DIO-Series-Lucas.dll
+/home/lucas/Documentos/DIO-Series-Lucas/obj/Debug/net5.0/DIO-Series-Lucas.pdb
+/home/lucas/Documentos/DIO-Series-Lucas/obj/Debug/net5.0/DIO-Series-Lucas.genruntimeconfig.cache
